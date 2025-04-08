@@ -69,11 +69,10 @@ To analyze individual and team performance in cricket by treating players as nod
 
 ## 🛠️ Tech Stack
 
-- **Languages:** Python, R
-- **Libraries:** NetworkX, Pandas, Scikit-learn, Matplotlib
+- **Languages:** Python
+- **Libraries:** Pandas, Scikit-learn, Matplotlib
 - **Data Sources:** Kaggle, IPLT20, Cricinfo
 
 ---
 
-## 📁 Folder Structure
 
